@@ -1,4 +1,4 @@
-# Base16 Black Metal (Bathory) 256 - alacritty color config
+# Base16 Black Metal - Alacritty color config
 # metalelf0 (https://github.com/metalelf0)
 
 # Default colors
@@ -15,8 +15,8 @@ cursor = '0xc1c1c1'
 [colors.normal]
 black = '0x000000'
 red = '0x5f8787'
-green = '0xfbcb97'
-yellow = '0xe78a53'
+green = '0xdd9999'
+yellow = '0xa06666'
 blue = '0x888888'
 magenta = '0x999999'
 cyan = '0xaaaaaa'
@@ -26,8 +26,8 @@ white = '0xc1c1c1'
 [colors.bright]
 black = '0x333333'
 red = '0x5f8787'
-green = '0xfbcb97'
-yellow = '0xe78a53'
+green = '0xdd9999'
+yellow = '0xa06666'
 blue = '0x888888'
 magenta = '0x999999'
 cyan = '0xaaaaaa'
@@ -61,19 +61,19 @@ color = "0x999999"
 size = 10.0
 
 [font.bold]
-family = "CommitMono Nerd Font"
+family = "Bm437 CL EagleII 9x16"
 style = "Bold"
 
 [font.bold_italic]
-family = "CommitMono Nerd Font"
+family = "Bm437 CL EagleII 9x16"
 style = "Bold Italic"
 
 [font.italic]
-family = "CommitMono Nerd Font"
+family = "Bm437 CL EagleII 9x16"
 style = "Italic"
 
 [font.normal]
-family = "CommitMono Nerd Font"
+family = "Bm437 CL EagleII 9x16"
 style = "Regular"
 
 [font.offset]
@@ -82,3 +82,4 @@ y = 0
 
 [window]
 opacity = 0.7
+
